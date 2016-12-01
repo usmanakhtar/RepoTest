@@ -2,7 +2,7 @@ package org.test.fun.testfun;
 
 /**
  * Hello world!
- *
+ * TEST LINE ...
  */
 public class App 
 {
