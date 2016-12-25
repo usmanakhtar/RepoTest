@@ -36,7 +36,7 @@ A visualization and analytics toolkit
 The component uses a variety of technologies including jQuery, amcharts, and bootstrap. 
 
 
-### 1.3 Requirements
+### 1.3 Installation
 
 •	php >= 5.3.0
      Windows users:
