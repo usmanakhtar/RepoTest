@@ -13,7 +13,7 @@ This document describes how to get started using the analytics toolkit for Minin
 - [1. Descriptive Analytics ](#1-Descriptive-Analytics)
     - [1.1 Getting Started](#11-getting-started)
     - [1.2 Include Library](#12-include-library)
-    - [1.3 Installation](#13-Installation)
+    - [1.3 Installation](#13-installation)
    
 - [2. Contribution](#2-contribution)
    
