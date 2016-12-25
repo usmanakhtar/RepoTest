@@ -38,33 +38,7 @@ The component uses a variety of technologies including jQuery, amcharts, and boo
 
 ### 1.3 Installation
 
-•	php >= 5.3.0
-     Windows users:
-•	Download wamp: http://www.wampserver.com/en/
-•	Download and extract the zip folder: 
-•	Update windows environment variable path to point to your php install folder (inside wamp installation dir) (here is how you can do this http://stackoverflow.com/questions/17727436/how-to-properly-set-php-environment-variable-to-run-commands-in-git-bash)
-
-Linux (Ubuntu) Users
-
-•	To install Apache you must install the Metapackage apache2. This can be done by searching for and installing in the Software Centre, or by running the following command.
-sudo apt-get install apache2
-
-•	To install MySQL you must install the Metapackage mysql-server. This can be done by searching for and installing in the Software Centre, or by running the following command.
-
-sudo apt-get install mysql-server
-
-•	To install PHP you must install the Meta packages php5 and libapache2-mod-php5. This can be done by searching for and installing in the Software Centre, or by running the following command.
-sudo apt-get install php5 libapache2-mod-php5
-
-
-•	Create a database locally named MM.
-•	Export the SQL code in the mysql interface to create the notifications table.
-•	Update the dcl server and llm server ip address in server.php.
-
-
-
-
-
+saaassa
 
 # 2. Contribution
 
