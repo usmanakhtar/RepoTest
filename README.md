@@ -38,7 +38,7 @@ The component uses a variety of technologies including jQuery, amcharts, and boo
 
 ### 1.3 Installation
 
-saaassa
+saaassa assa
 
 # 2. Contribution
 
